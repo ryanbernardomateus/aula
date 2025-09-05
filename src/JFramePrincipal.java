@@ -40,23 +40,23 @@ public class JFramePrincipal extends javax.swing.JFrame {
 
         jLabelTitulo.setFont(new java.awt.Font("Yu Gothic", 0, 18)); // NOI18N
         jLabelTitulo.setForeground(new java.awt.Color(204, 0, 204));
-        jLabelTitulo.setText("Sistema Ry");
+        jLabelTitulo.setText("Sistema RyY");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(142, 142, 142)
+                .addGap(145, 145, 145)
                 .addComponent(jLabelTitulo)
-                .addContainerGap(153, Short.MAX_VALUE))
+                .addContainerGap(138, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(65, 65, 65)
+                .addGap(29, 29, 29)
                 .addComponent(jLabelTitulo, javax.swing.GroupLayout.PREFERRED_SIZE, 25, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(177, Short.MAX_VALUE))
+                .addContainerGap(213, Short.MAX_VALUE))
         );
 
         jMenu1.setText("CADASTRO");
